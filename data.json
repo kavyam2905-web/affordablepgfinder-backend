@@ -1,0 +1,18 @@
+[
+{
+    "id": 1,
+    "name": "Sri Sai PG",
+    "place": "Bangalore",
+    "rent": 6000,
+    "facilities": "WiFi, Food, Parking",
+    "owner": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Green Comfort Hostel",
+    "place": "Mysore",
+    "rent": 5000,
+    "facilities": "WiFi, Laundry, Food",
+    "owner": "9123456780"
+  }
+]
